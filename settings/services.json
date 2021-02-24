@@ -1,0 +1,23 @@
+{
+	"game": {
+		"name": "Cloud",
+		"appid": "629615388",
+		"cid": 0
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "629615388",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": true
+				},
+				{
+					"service_id": "269",
+					"enable": false
+				}
+			]
+		}
+	]
+}
